@@ -1,21 +1,21 @@
-<!-- Animated Banner -->
+<!-- ====== Animated Banner ====== -->
 <p align="center">
-  <img src="https://i.imgur.com/EYk3YVo.gif" alt="Coding - My Life Banner" width="100%"/>
+  <img src="https://i.imgur.com/mN7k7kV.gif" alt="Coding - My Life" width="100%"/>
 </p>
 
 <h1 align="center">⚡ Coding – My Life ⚡</h1>
 
 <p align="center">
-  <em>“Code is not just lines. It's creativity, logic, and passion.”</em>
+  <em>"Code. Create. Evolve."</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-Hey there! I'm a **coder** who loves turning ideas into reality through code.  
-I explore, build, break things, and rebuild them even better.  
-Coding isn't just my job — it's my **way of life**. 🚀  
+Hey! I'm a **coder** passionate about building, exploring, and pushing boundaries in tech.  
+Every project is a new adventure — from backend logic to creative scripting.  
+Coding is not just my work — it's my **lifestyle**. 🚀  
 
 ---
 
@@ -46,16 +46,15 @@ Coding isn't just my job — it's my **way of life**. 🚀
 
 ---
 
-### 📊 GitHub Stats
+### ⏰ Live Clock
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-time.vercel.app/api/time?timezone=Europe/Kyiv&label=Current%20Time&color=blue&font=Fira%20Code&size=40" alt="Live Clock"/>
 </p>
 
 ---
 
-### 🚀 Quote
+### 💬 Quote
 
 <p align="center">
   <em>“Eat. Sleep. Code. Repeat.”</em>
